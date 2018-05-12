@@ -8,7 +8,7 @@ SALTSTACK is available in most major linux distribution's repositories. SALTSTAC
 
 The recommended way to install SALTSTACK is to use your package manager. You also can install SALTSTACK from source by cloning the [SALTSTACK Github](https://github.com/saltstack/salt) repositories. Instructions are available in the repositories regarding the dependecies required prior to installation from source.
 
-Often, you may want to use a newer version of SALT than is available currently from your distributions repositories. An easy way to install the dependencies first is to use your package manager to install whatever version of SALTSTACK is available, and then build the version you want from source.
+Often, you may want to use a newer version of SALT than is available currently from your distributions repositories. An easy way to install the dependencies first is to use your package manager to install whatever version of SALTSTACK is available, and then build the version you want from source. You can obtain the latest packages for your OS version at [repo.saltstack.com](https://repo.saltstack.com/). 
 
 SALT also has a fully automated shell-script that makes it even easier to install, if you have access to an outside network.
 
