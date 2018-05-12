@@ -73,7 +73,7 @@ Before you can do anything with a newly installed _minion_, you'll need to accep
 
 This is accomplished with the `salt-key` command.
 
-Again, for this section your _minion_ and _master_ are the same machine, but later when you begin to actually use SALT, they will be on different machines. The `salt-key` command would be intitiated on the _master_
+Again, for this section your _minion_ and _master_ are the same machine, but later when you begin to actually use SALT, they will be on different machines. The `salt-key` command would be intitiated on the _master_.
 
 Log in to your master if you aren't already, and type the following:
 
@@ -81,7 +81,7 @@ Log in to your master if you aren't already, and type the following:
 
 This command will list all of the accepted, rejected, and pending keys within your _master_.
 
-Hopefully you see one Unaccepted Key for your newly installed _minion_ .
+Hopefully you see one Unaccepted Key for your newly installed _minion_.
 
     Accepted Keys:
     Denied Keys:
