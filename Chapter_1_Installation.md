@@ -81,7 +81,7 @@ Log in to your master if you aren't already, and type the following:
 
 This command will list all of the accepted, rejected, and pending keys within your _master_.
 
-Hopefully you see a pending key for your newly installed _minion_.
+Hopefully you see one Unaccepted Key for your newly installed _minion_ .
 
     Accepted Keys:
     Denied Keys:
